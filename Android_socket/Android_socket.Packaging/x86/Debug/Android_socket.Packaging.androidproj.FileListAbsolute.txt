@@ -1,0 +1,12 @@
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Android_socket.apk.recipe
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Android_socket.apk.recipe.merged
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\libs\x86\libAndroid_socket.so
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\libs\x86\gdbserver
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\libs\x86\libgnustl_static.a
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\res\values\strings.xml
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\build.xml
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\project.properties
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Package\androidmanifest.xml
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Android_socket.apk
+C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\Android_socket.lastsuccessfuldeploy
+C:\Users\HSC\Desktop\Cexample\Android_socket\Android_socket\Android_socket.Packaging\x86\Debug\GenerateAndroidAntScript.incremental

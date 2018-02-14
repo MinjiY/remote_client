@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths />
+  <OObjPaths />
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture />
+  <!--links to other recipe files-->
+  <RecipeFiles>C:\Users\uminji\Desktop\한이음_프로젝트파일\Android_socket\ARM\Release\libAndroid_socket.so.recipe</RecipeFiles>
+</project>

@@ -1,0 +1,8 @@
+﻿  ANDROID_HOME=C:\Program Files (x86)\Android\android-sdk
+  ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Apps\apache-ant-1.9.3\
+  JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_55
+  NDK_ROOT=C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\
+  pch.h
+  android_native_app_glue.c
+  main.cpp
+  Android_socket.NativeActivity.vcxproj -> C:\Users\uminji\Desktop\한이음_프로젝트파일\Android_socket\ARM\Release\libAndroid_socket.so

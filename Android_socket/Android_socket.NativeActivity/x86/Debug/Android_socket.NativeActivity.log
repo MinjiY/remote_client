@@ -1,0 +1,19 @@
+﻿빌드 시작: 2015-10-03 오후 6:10:35
+     1>2 노드의 "C:\Users\HSC\Desktop\Cexample\Android_socket\Android_socket\Android_socket.NativeActivity\Android_socket.NativeActivity.vcxproj" 프로젝트(Build 대상)입니다.
+     1>SetBuildDefaultEnvironmentVariables:
+         ANDROID_HOME=C:\Program Files (x86)\Android\android-sdk
+         ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Apps\apache-ant-1.9.3\
+         JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_55
+         NDK_ROOT=C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\
+       ClCompile:
+         C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\toolchains\llvm-3.6\prebuilt\windows\bin\clang.exe -c -fdiagnostics-format=msvc -gcc-toolchain "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\toolchains\x86-4.9\prebuilt\windows" -target "i686-none-linux-androideabi" --sysroot="C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\platforms\android-19\arch-x86" -I "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\platforms\android-19\arch-x86\usr\include" -I "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\sources\cxx-stl\gnu-libstdc++\4.9\include" -I "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\sources\cxx-stl\gnu-libstdc++\4.9\libs\x86\include" -I "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\sources\cxx-stl\gnu-libstdc++\4.9\include\backward" -I "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\toolchains\llvm-3.6\prebuilt\windows\lib\clang\3.6\include" -g2 -gdwarf-2 -o "x86\Debug\main.o" -Wall -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fno-exceptions -fstack-protector -fpic -fno-short-enums -fno-rtti -x c++ -include x86\Debug\pch.h main.cpp
+         main.cpp
+       Link:
+         C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\toolchains\llvm-3.6\prebuilt\windows\bin\clang.exe -fdiagnostics-format=msvc -o"x86\Debug\libAndroid_socket.so" -Wl,-rpath-link="C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\platforms\android-19\arch-x86\usr\lib" -Wl,-L"C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\platforms\android-19\arch-x86\usr\lib" -Wl,-L"C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\toolchains\x86-4.9\prebuilt\windows\lib\gcc\i686-linux-android\4.9" -Wl,-L"C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\sources\cxx-stl\gnu-libstdc++\4.9\libs\x86" -Wl,--no-undefined -gcc-toolchain "C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\toolchains\x86-4.9\prebuilt\windows" -target "i686-none-linux-androideabi" --sysroot="C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\\platforms\android-19\arch-x86" -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -shared -lm x86\Debug\android_native_app_glue.o x86\Debug\main.o C:\projectApi\a1\lib_x86d_TWAPI_A1.a -lgnustl_static -llog -landroid -lGLESv1_CM -lEGL
+         i686-linux-android-strip.exe --strip-unneeded  -o "C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\libAndroid_socket.so" "x86\Debug\libAndroid_socket.so"
+         Android_socket.NativeActivity.vcxproj -> C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\libAndroid_socket.so
+     1>"C:\Users\HSC\Desktop\Cexample\Android_socket\Android_socket\Android_socket.NativeActivity\Android_socket.NativeActivity.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.98

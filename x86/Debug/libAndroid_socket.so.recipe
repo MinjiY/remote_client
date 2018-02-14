@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>C:\Users\HSC\Desktop\Cexample\Android_socket\x86\Debug\libAndroid_socket.so;C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\prebuilt\android-x86\gdbserver\gdbserver;C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\sources\cxx-stl\gnu-libstdc++\4.9\libs\x86\libgnustl_static.a</SOLibPaths>
+  <OObjPaths>C:\Users\HSC\Desktop\Cexample\Android_socket\Android_socket\Android_socket.NativeActivity\x86\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>x86</Platform>
+  <AndroidArchitecture>x86</AndroidArchitecture>
+  <!--links to other recipe files-->
+  <RecipeFiles />
+</project>
